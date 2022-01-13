@@ -1,0 +1,4 @@
+
+导入包（或go文件）所在文件夹路径，如：import "github.com/nihilistHxw/test"
+go mod tidy      把外部模块下载下来
+go mod vendor    在本项目下建立vendor文件夹，在其中导入所需外部模块
